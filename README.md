@@ -1,1 +1,1 @@
-# Starting project using HTML,CSS,JavaScript
+# Starting Project1 using HTML,CSS,JavaScript
